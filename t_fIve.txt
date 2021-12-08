@@ -1,0 +1,2 @@
+a or b and c and not d
+a=TRUE b=FALSE c=TRUE d=TRUE
